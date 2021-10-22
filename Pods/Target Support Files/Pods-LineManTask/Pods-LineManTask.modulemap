@@ -1,0 +1,6 @@
+framework module Pods_LineManTask {
+  umbrella header "Pods-LineManTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
